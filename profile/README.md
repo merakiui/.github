@@ -10,4 +10,4 @@ We just added 80+ components to Meraki UI and new 8 categories:
 -   [Email Templates Components](https://merakiui.com/components/email-templates)
 
 <p align="center">
-    <img src="../thumbnail.webp" alt="Meraki UI logo">
+    <img src="https://github.com/merakiui/.github/raw/main/thumbnail.webp" alt="Meraki UI logo">
